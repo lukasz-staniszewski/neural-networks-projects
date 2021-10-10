@@ -6,9 +6,9 @@
 </div>
 
 <div align="center">
-  ENG: This repository contains all my projects done during college Neural Network subject.
+  ENG: This repository contains of all my projects done during college Neural Network subject.
 
-  PL: Repozytorium zawiera moje wszelkie prace wykonane w ramach przedmiotu Sztuczne Sieci Neuronowe (SSNE).
+  PL: Repozytorium zawiera moje wszystkie projekty wykonane w ramach przedmiotu Sztuczne Sieci Neuronowe (SSNE).
 </div>
 
 ## Table of contents / Spis treści:
