@@ -14,22 +14,37 @@
 ## Table of contents / Spis treści:
 1. Introduction to PyTorch. / Wstęp do PyTorch.
 2. Neural Networks in PyTorch. / Sieci Neuronowe w PyTorch.
-...
+3. ...
 
 ## Used technologies / Użyte technologie:
 1. Python 3.9.5.
-1. PyTorch 1.19 + CUDA 11.1. 
-...
+2. PyTorch 1.19 + CUDA 11.1. 
+3. ...
 
 ## Instalation / Instalacja:
 
 1. Download this repository. / Pobierz repozytorium.
 2. Create your own Python virtual environment. / Stwórz swoje własne środowisko wirtualne Python.
-``` python -m venv venv ```
+
+``` 
+python -m venv venv
+```
+
 3. Activate venv. / Aktywuj środowisko.
-``` REPO_PATH\venv\scripts\activate ```
+
+``` 
+REPO_PATH\venv\scripts\activate 
+```
+
 4. Install necessary packages. / Zainstaluj odpowiednie biblioteki.
-``` pip install -r requirements.txt ```
+
+``` 
+pip install -r requirements.txt 
+```
+
 5. Run Jupyter Notebook. / Uruchom Jupyter Notebook.
-``` jupyter notebook ```
+
+``` 
+jupyter notebook 
+```
 
