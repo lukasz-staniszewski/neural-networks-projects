@@ -14,7 +14,8 @@
 ## Table of contents / Spis treści:
 1. Introduction to PyTorch. / Wstęp do PyTorch.
 2. Neural Networks in PyTorch. / Sieci Neuronowe w PyTorch.
-3. ...
+3. Bike sharing prediction in PyTorch. / Predykcja liczby wypożyczonych rowerów z użyciem PyTorch.
+4. ...
 
 ## Used technologies / Użyte technologie:
 1. Python 3.9.5.
