@@ -15,7 +15,8 @@
 1. Introduction to PyTorch. / Wstęp do PyTorch.
 2. Neural Networks in PyTorch. / Sieci Neuronowe w PyTorch.
 3. Bike sharing prediction in PyTorch. / Predykcja liczby wypożyczonych rowerów z użyciem PyTorch.
-4. ...
+4. Data processing and Neural Networks Tips. / Przerabianie niewygodnych danych oraz wskazówki w Sieciach Neuronowych. 
+5. ...
 
 ## Used technologies / Użyte technologie:
 1. Python 3.9.5.
