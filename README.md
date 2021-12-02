@@ -1,5 +1,5 @@
 <h1 align="center">Neural Networks Projects</h1>
-<h3 align="center">Łukasz Staniszewski (Warsaw Univerity of Technology)</h1>
+<h3 align="center">Łukasz Staniszewski (Warsaw Univerity of Technology)</h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/59453698/136709614-77595f1f-788e-481d-acfb-3be20f813b9e.gif" alt="banner">
@@ -16,7 +16,10 @@
 2. Neural Networks in PyTorch. / Sieci Neuronowe w PyTorch.
 3. Bike sharing prediction in PyTorch. / Predykcja liczby wypożyczonych rowerów z użyciem PyTorch.
 4. Data processing and Neural Networks Tips. / Przerabianie niewygodnych danych oraz wskazówki w Sieciach Neuronowych. 
-5. ...
+5. Real estate cost estimation using Neural Networks. / Przewidywanie cen nieruchomości z użyciem Sieci Neuronowych.
+6. Convolutional Neural Networks. / Konwolucyjne sieci neuronowe.
+7. Image Classificator. / Klasyfikator obrazków.
+8. ...
 
 ## Used technologies / Użyte technologie:
 1. Python 3.9.5.
