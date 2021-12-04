@@ -19,7 +19,7 @@
 5. Real estate cost estimation using Neural Networks. / Przewidywanie cen nieruchomości z użyciem Sieci Neuronowych.
 6. Convolutional Neural Networks. / Konwolucyjne sieci neuronowe.
 7. Image Classificator. / Klasyfikator obrazków.
-8. ...
+8. Autoencoders. / Autoenkodery.
 
 ## Used technologies / Użyte technologie:
 1. Python 3.9.5.
