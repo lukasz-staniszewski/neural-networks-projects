@@ -20,6 +20,9 @@
 6. Convolutional Neural Networks. / Konwolucyjne sieci neuronowe.
 7. Image Classificator. / Klasyfikator obrazków.
 8. Autoencoders. / Autoenkodery.
+9. Generative Neural Networks. / Sieci Generacyjne.
+10. Road signs image generator. / Generatr obrazków znaków drogowych.
+11. ...
 
 ## Used technologies / Użyte technologie:
 1. Python 3.9.5.
