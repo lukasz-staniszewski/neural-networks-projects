@@ -22,7 +22,7 @@
 8. Autoencoders. / Autoenkodery.
 9. Generative Neural Networks. / Sieci Generacyjne.
 10. Road signs image generator. / Generatr obrazków znaków drogowych.
-11. ...
+11. Reccurential Neural Networks. / Sieci Rekurencyjne.
 
 ## Used technologies / Użyte technologie:
 1. Python 3.9.5.
