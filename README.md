@@ -23,11 +23,14 @@
 9. Generative Neural Networks. / Sieci Generacyjne.
 10. Road signs image generator. / Generatr obrazków znaków drogowych.
 11. Reccurential Neural Networks. / Sieci Rekurencyjne.
+12. Composer (reccurential) classifier. / Rekurencyjny klasyfikator kompozytorów.
+13. Natural Language Processing. / Przetwarzanie języka naturalnego.
+14. Pretrained models. / Modele przetrenowane.
+15. Hate speech recognition. / Rozpoznawanie mowy nienawiści.
 
 ## Used technologies / Użyte technologie:
 1. Python 3.9.5.
-2. PyTorch 1.19 + CUDA 11.1. 
-3. ...
+2. PyTorch 1.19 + CUDA 11.1.
 
 ## Instalation / Instalacja:
 
