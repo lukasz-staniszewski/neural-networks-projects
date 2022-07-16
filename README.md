@@ -1,5 +1,5 @@
 <h1 align="center">Neural Networks Projects</h1>
-<h3 align="center">Łukasz Staniszewski (Warsaw Univerity of Technology)</h3>
+<h3 align="center">Łukasz Staniszewski</h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/59453698/136709614-77595f1f-788e-481d-acfb-3be20f813b9e.gif" alt="banner">
